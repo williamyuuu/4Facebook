@@ -19,7 +19,7 @@ function on_off(){
 
 	if(status === "on"){
 		off_functions();
-		//chrome.tabs.reload();
+		chrome.tabs.reload();
 	}
 	else{
 		on_functions();
