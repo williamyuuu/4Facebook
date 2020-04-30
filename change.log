@@ -1,9 +1,11 @@
-1.0
-	- Initial push of code
+                4Facebook Google Extension Change Log
+                =====================================
 
-1.1
+Version 1.0.1 April 30, 2020
+----------------------------
+- Enh: 4Facebook popup only shows option for Facebook.com
+- Enh: Fixed problem where it would not stop feed on initial boot
 
-	- 4Facebook Popup only shows option for Facebook.com
-	- Fixed problem where it would not stop feed on initial boot
-
-
+Version 1.0.0 April 29, 2020
+----------------------------
+Initial release
